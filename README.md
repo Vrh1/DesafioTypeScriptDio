@@ -1,0 +1,2 @@
+# DesafioTypeScriptDio
+ Apenas exercícios
